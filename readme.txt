@@ -11,4 +11,6 @@ sudo apt-get install nginx
 
 sudo systemctl start nginx
 
-sudo systemctl enable nginx   
+sudo systemctl enable nginx
+
+webpage is ketpt at /var/www/nginx   
